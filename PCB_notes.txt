@@ -1,0 +1,4 @@
+pcb design
+
+-manufacturer design rules?
+-gerber files tells manu about layers
